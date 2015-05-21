@@ -1,0 +1,54 @@
+# Python
+*.py[cod]
+
+# Tex
+*.aux
+*.lof
+*.lot
+*.fls
+*.out
+*.toc
+*.dvi
+*.bbl
+*.bcf
+*.blg
+#*.pdf
+
+# Temp
+*.tmp
+
+# Vim
+*.swp
+
+# Bro
+*.log
+*.sublime-workspace
+
+# Dataset
+*.csv
+*.tgz
+*.pcap
+*.cap
+
+# R language
+.Rhistory
+INSTALL.sublime-workspace
+# doc directory
+#doc/
+#misc/
+#code/graphs/
+
+# data folder
+data/
+
+# old code folder
+code/old/
+
+# test scripts
+test.py
+*.bak
+
+# c
+*.o
+
+

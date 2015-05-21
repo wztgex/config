@@ -1,0 +1,13 @@
+[user]
+	name = ZhiWang
+	email = zhi.wang@rhul.ac.uk
+[core]
+	editor = vim
+[diff]
+	tool = vimdiff
+[color]
+	ui = true
+[alias]
+	st = status
+[push]
+	default = simple

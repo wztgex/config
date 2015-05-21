@@ -1,0 +1,7 @@
+inoremap jj <ESC>
+nnoremap B ^
+nnoremap E $
+let mapleader = ','
+nnoremap <leader>y  "+y
+nnoremap <leader>yy  "+Y
+vnoremap <leader>y "+y<ESC>
