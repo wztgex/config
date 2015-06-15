@@ -8,3 +8,4 @@ hi folded ctermbg=darkgrey
 let mapleader = "\<Space>"
 nnoremap <Leader>w :w<CR>
 nnoremap <Leader>x :x<CR>
+nnoremap <Leader>q :q<CR>
