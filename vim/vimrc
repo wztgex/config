@@ -1,6 +1,10 @@
 inoremap jj <ESC>
 nnoremap B ^
 nnoremap E $
-let mapleader = ','
+set clipboard=unnamed
 set clipboard=unnamedplus
 hi folded ctermbg=darkgrey
+
+let mapleader = "\<Space>"
+nnoremap <Leader>w :w<CR>
+nnoremap <Leader>x :x<CR>
