@@ -1,4 +1,4 @@
-#
+# Makefile for compile latex
 
 main = main
 TEXFILES = $(addprefix ./, *.tex)
